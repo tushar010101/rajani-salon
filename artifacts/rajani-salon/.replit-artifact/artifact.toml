@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Rajani Beauty Salon & Academy"
+version = "1.0.0"
+id = "artifacts/rajani-salon"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24819
+
+[services.development]
+run = "pnpm --filter @workspace/rajani-salon run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/rajani-salon", "run", "build" ]
+publicDir = "artifacts/rajani-salon/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24819"
+BASE_PATH = "/"

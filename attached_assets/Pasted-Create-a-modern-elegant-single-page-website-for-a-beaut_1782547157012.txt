@@ -1,0 +1,83 @@
+Create a modern, elegant, single-page website for a beauty salon and academy called "Rajani Beauty Salon & Academy" using React with Tailwind CSS. Make it visually stunning, professional, and mobile-responsive.
+
+BUSINESS DETAILS:
+- Business Name: Rajani Beauty Salon & Academy
+- Category: Beauty Salon & Training Academy
+- Phone: 08805558994
+- Address: Shop no 5, Sayli Nirman Bldg, Railway Station, Near Neral, Nirman Nagari, Neral, Maharashtra 410101
+- Rating: 4.9/5 stars based on 95 reviews
+
+DESIGN STYLE:
+- Color scheme: Elegant rose-gold and blush pink palette combined with deep charcoal/black for contrast — colors like #D4A5A5 (dusty rose), #C9967D (rose gold), #2B2B2B (charcoal), #FFF8F3 (cream background), and #B8860B (subtle gold accents). This should feel luxurious, feminine, and premium — like a high-end spa, not childish or overly bright.
+- Fonts: Use Google Fonts — "Playfair Display" (elegant serif) for headings/logo to give a premium boutique feel, and "Poppins" or "Lato" (clean sans-serif) for body text for readability.
+- Overall mood: Luxurious, calming, premium, trustworthy — similar to high-end spa/salon websites.
+
+SECTIONS TO INCLUDE (in this order):
+
+1. NAVBAR (sticky on scroll)
+   - Logo text "Rajani Beauty Salon & Academy" in elegant font
+   - Menu: Home, Services, Academy, Gallery, Reviews, Contact
+   - A "Book Now" button (rose-gold filled button) on the right
+   - Smooth shrink/blur effect on scroll
+
+2. HERO SECTION
+   - Full-width hero with a soft gradient background (rose-gold to cream) or subtle animated particles/blobs in background
+   - Large elegant headline: "Where Beauty Meets Expertise"
+   - Subheading: "Premium salon services & professional beauty academy in Neral"
+   - Two buttons: "Book Appointment" (primary, rose-gold) and "Explore Academy" (outline style)
+   - Animate headline and buttons with a fade-up entrance animation on page load
+   - Show the 4.9★ rating with "95+ Happy Clients" as a small trust badge near the hero
+
+3. ABOUT SECTION
+   - Two-column layout: text on one side, a decorative image/illustration placeholder on the other
+   - Short paragraph about Rajani Beauty Salon & Academy being a trusted name in Neral for beauty services and professional training
+   - 3 small stat cards with icons: "95+ Reviews", "4.9★ Rating", "Expert Trainers" — each card should have a subtle hover lift animation
+
+4. SERVICES SECTION
+   - Section heading: "Our Services"
+   - Grid of 6 service cards (use relevant icons for each) with placeholder services: Hair Styling & Cuts, Bridal Makeup, Skin Care & Facials, Manicure & Pedicure, Hair Coloring & Treatments, Waxing & Threading
+   - Each card: icon at top, service name, one-line description, soft shadow, and a smooth hover effect (lift + shadow grow + slight color accent on hover)
+
+5. ACADEMY SECTION
+   - Section heading: "Rajani Beauty Academy"
+   - Highlight that this is also a training academy for aspiring beauticians
+   - 3-4 feature points with checkmark icons: "Certified Courses", "Hands-on Training", "Experienced Faculty", "Placement Guidance"
+   - A call-to-action button: "Enroll Now"
+
+6. WHY CHOOSE US SECTION
+   - 4 feature boxes in a row (stack on mobile) with icons: "Experienced Staff", "Hygienic Environment", "Premium Products", "Affordable Pricing"
+   - Subtle fade-in animation as user scrolls to this section (scroll-triggered animation)
+
+7. TESTIMONIALS/REVIEWS SECTION
+   - Section heading: "What Our Clients Say"
+   - Show the overall rating prominently: "4.9 ★★★★★ based on 95 Google Reviews"
+   - 3 sample review cards in a carousel or grid with 5-star icons, a short placeholder testimonial quote, and a customer name placeholder
+   - Add a subtle auto-scroll or fade carousel effect if using a carousel
+
+8. CONTACT SECTION
+   - Section heading: "Visit Us"
+   - Left side: Address, phone number (clickable tel: link), and business hours (placeholder: Mon-Sun, 10 AM - 8 PM)
+   - Right side: An embedded Google Map placeholder (use an iframe placeholder for "Shop no 5, Sayli Nirman Bldg, Railway Station, Near Neral, Nirman Nagari, Neral, Maharashtra 410101")
+   - A floating WhatsApp icon button (bottom-right corner, fixed position) linking to the phone number, with a subtle pulse animation to draw attention
+
+9. FOOTER
+   - Business name, short tagline, address, phone
+   - Social media icon placeholders (Instagram, Facebook)
+   - Copyright line: "© 2026 Rajani Beauty Salon & Academy. All rights reserved."
+
+ANIMATIONS & EFFECTS TO ADD:
+- Smooth scroll behavior site-wide
+- Fade-up animations for sections as they enter viewport (scroll-triggered, use Intersection Observer or a library like Framer Motion if available)
+- Hover lift + shadow effects on all cards and buttons
+- Sticky navbar with blur/shrink effect on scroll
+- Subtle floating/pulse animation on the WhatsApp button
+- Smooth color transitions on button hovers (no jarring instant changes)
+
+TECHNICAL REQUIREMENTS:
+- Fully responsive (mobile, tablet, desktop) — test that the navbar collapses into a hamburger menu on mobile
+- Clean, well-commented code structure
+- Use placeholder images from a free source (like Unsplash via URL) for salon-related visuals (hair styling, beauty academy, spa interior) until real photos are added
+- Make the phone number clickable (tel:08805558994) and add a clickable WhatsApp link using the same number
+- Ensure fast loading and clean visual hierarchy throughout
+
+Build this as a complete, working, polished website in one go — not a basic template. Make it look like a premium, professionally designed salon website that could realistically convert visitors into paying clients.

@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "2zKU56iH7Dj97blAq7x78"
+uri = "file://artifacts/rajani-salon/public/images/salon-interior.jpg"
+type = "image"
+title = "high end luxury beauty salon interior warm amber lighting elegant"
