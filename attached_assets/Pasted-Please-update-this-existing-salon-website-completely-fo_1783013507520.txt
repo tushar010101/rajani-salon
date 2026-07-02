@@ -1,0 +1,116 @@
+Please update this existing salon website completely for a new client. Replace ALL content, keeping the same design structure but updating every detail for the new business.
+
+NEW BUSINESS DETAILS:
+- Business Name: Ananya Beauty Parlour & Academy
+- Category: Beauty Parlour & Academy
+- Phone: 8390140360
+- WhatsApp: 918390140360
+- Address: Shop No 8, Nirmal Arcade Commercial Complex, opposite Neral Railway Station, East, Dhamote, Maharashtra 410101
+- Rating: 4.8/5 stars based on 28 Google reviews
+
+SERVICES TO SHOWCASE:
+1. Bridal Services & Wedding Preparation
+2. Event Makeup & Hairstyling
+3. Body Waxing & Brazilian Waxing
+4. Facials & Spa Services
+5. Haircuts & Hairstyling
+6. Eyebrow Threading
+7. Manicure & Pedicure
+8. Makeup Services
+
+COLOR SCHEME — CHANGE COMPLETELY:
+- Previous website was rose-gold/navy
+- New color scheme for Ananya →
+  Primary: Deep plum/purple (#4A1942)
+  Accent: Soft gold (#D4AF37)
+  Background: Warm cream (#FDF6F0)
+  Secondary: Dusty rose (#C4877A)
+- This should feel luxurious, bridal, 
+  and feminine — perfect for a 
+  bridal/beauty focus
+
+KEY BRAND IDENTITY POINTS:
+- Strong bridal focus (this is their 
+  main differentiator — bridal + 
+  wedding preparation is their 
+  specialty)
+- Full-service beauty parlour + 
+  academy (training angle similar 
+  to previous site)
+- Located opposite Neral Railway 
+  Station (very convenient location 
+  — highlight this)
+
+SECTIONS TO UPDATE:
+
+1. NAVBAR →
+   - Logo: "Ananya Beauty Parlour 
+     & Academy"
+   - Same menu structure
+   - "Book Appointment" button → 
+     WhatsApp redirect:
+     https://wa.me/918390140360?text=Hi%2C%20I%20would%20like%20to%20book%20an%20appointment%20at%20Ananya%20Beauty%20Parlour
+
+2. HERO SECTION →
+   - Headline: "Where Every Bride 
+     Finds Her Glow"
+   - Subheading: "Complete beauty 
+     services & professional academy 
+     in Neral"
+   - Trust badge: "4.8★ Rating | 
+     28+ Happy Clients"
+
+3. WHY CHOOSE US →
+   - "Bridal Specialists" — expert 
+     bridal makeup & wedding 
+     preparation
+   - "Full Service Parlour" — 
+     everything from waxing to 
+     hairstyling under one roof
+   - "Academy Training" — 
+     professional beauty courses
+   - "Prime Location" — opposite 
+     Neral Railway Station, 
+     easily accessible
+
+4. SERVICES SECTION →
+   Update all 8 services listed 
+   above with relevant icons
+
+5. ACADEMY SECTION →
+   Same structure, update for 
+   Ananya Beauty Academy
+
+6. CONTACT SECTION →
+   - Address: Shop No 8, Nirmal 
+     Arcade Commercial Complex, 
+     opposite Neral Railway Station, 
+     East, Dhamote, Maharashtra 410101
+   - Phone: 8390140360 (clickable)
+   - WhatsApp floating button → 
+     same link as above
+
+7. FOOTER →
+   - Business name: Ananya Beauty 
+     Parlour & Academy
+   - Tagline: "Where Every Bride 
+     Finds Her Glow"
+   - © 2026 Ananya Beauty Parlour 
+     & Academy. All rights reserved.
+
+IMPORTANT TECHNICAL NOTES:
+- Update ALL instances of old 
+  business name (Rajani Beauty 
+  Salon) with new name
+- Update ALL phone numbers to 
+  8390140360
+- Update ALL WhatsApp links to 
+  use 918390140360
+- Update Google Maps embed to 
+  new address
+- Keep all animations, effects, 
+  and responsive design intact
+- DO NOT change vercel.json or 
+  any deployment configuration
+
+Please make all changes in one go and confirm when done.
